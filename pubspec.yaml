@@ -40,7 +40,6 @@ dependencies:
   logger: ^2.5.0
   dartz: ^0.10.1
   flutter_dotenv: ^5.2.1
-  hive: ^2.2.3
   flutter_svg: ^2.0.17
   heroicons: ^0.11.0
   intl: ^0.20.2
